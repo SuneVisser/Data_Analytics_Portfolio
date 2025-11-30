@@ -22,13 +22,10 @@ This portfolio showcases the analytics projects I've completed using Excel, Powe
 
 📬 How to Contact Me:
 --------------------------
-	📍 Based in Cape Town, South Africa
-	
-	☎️ <p><a href="https://wa.me/27609824044" title="whatsapp">0609824044</a></p>
-	
+	📍 Based in Cape Town, South Africa	
+	☎️ WHatsapp: https://wa.me/27609824044/	
 	📧 Email: <visser.sun@gmail.com>
-	🔗 LinkedIn: [Sune Visser - LinkedIn][]				
-			[Sune Visser - LinkedIn]: http://linkedin.com/in/sune-visser/
+	🔗 LinkedIn: https://linkedin.com.in/sune-visser/
 
 
 		
